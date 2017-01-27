@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.2'
+
+target 'DAM-TD3' do
+    use_frameworks!
+    pod 'SWXMLHash', '~> 3.0'
+end
